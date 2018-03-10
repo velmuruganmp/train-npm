@@ -1,0 +1,22 @@
+{
+  "name": "velpackage",
+  "version": "1.0.0",
+  "description": "firstpackageforvel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velmuruganmp/train-npm.git"
+  },
+  "keywords": [
+    "firstvel"
+  ],
+  "author": "velmurugan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/velmuruganmp/train-npm/issues"
+  },
+  "homepage": "https://github.com/velmuruganmp/train-npm#readme"
+}
